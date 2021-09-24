@@ -1,0 +1,5 @@
+IPv4:189.6.253.193   classe A
+IPprivado: 192.168.0.4 classe C
+MASK: 2255.255.255.0
+
+placa de rede:GIGA-BYTE TECHNOLOGY CO.,LTD
